@@ -1,4 +1,4 @@
-## Olá! Eu sou o Marco Antônio, mas pode me chamar de Tchê    
+## Olá! Eu sou o Marco Antônio, mais conhecido como Tchê    
 ###
 <div align="center" style="display: inline_block">
   <a href="https://github.com/Marco-Antonio-Martins">
