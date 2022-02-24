@@ -3,6 +3,7 @@
 <div>
   <a href="https://github.com/Marco-Antonio-Martins">
   <img style="display: inline-block;" height="150em" src="https://github-readme-stats.vercel.app/api?username=Marco-Antonio-Martins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    &nbsp
   <img style="display: inline-block;" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-Antonio-Martins&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
