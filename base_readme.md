@@ -9,18 +9,18 @@
 
 ## Project's class models:
 
-+ User 
-+ Class name
++ User (a class to represent a user)
++ Class name (a class to represent a object)
   
-Main fields:
+Main attributes:
 
-+ User: name
-+ User: mail
-+ User: birth
-+ User: active
-+ Class name: field
++ User: name (first name of the user)
++ User: mail (mail of the user)
++ User: birth (birth date of the user)
++ User: active (user is active?)
++ Class name: field (field description)
 
-## In addition to CRUD, I implement other features such as:
+## Methods for implementing some features, such as:
 
 * Entire verification system to validate forms with personalized messages.
 * Message of success when create a User.
