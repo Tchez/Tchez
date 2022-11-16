@@ -1,5 +1,5 @@
-# Readme padrão para meus projetos 
-[English](https://github.com/MarcoTche/MarcoTche/edit/main/base_readme-pt.md)
+# Default README for my projects
+[Português](https://github.com/MarcoTche/MarcoTche/edit/main/base_readme-pt.md)
 
 <h1>Project Name</h1>
 
