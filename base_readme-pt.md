@@ -1,18 +1,18 @@
 # README padrão para meus projetos 
-[English](https://github.com/MarcoTche/MarcoTche/edit/main/base_readme.md)
+[English](https://github.com/MarcoTche/MarcoTche/blob/main/base_readme.md)
 
-<h1>Project Name</h1>
+<h1>Nome do projeto</h1>
 
-> Status: Developing
+> Status: Em desenvolvimento
 
-### It is a web application planned by me, where I perform the CRUD of Project Name.
+### Esse projeto é uma aplicação WEB criada com o intúito de...
 
-## Project's class models:
+## Modelos de classe do projeto:
 
-+ User 
-+ Class name
++ User (classe para representar um usuário)
++ Nome da classe (classe para representar um objeto)
   
-Main fields:
+Principais campos:
 
 + User: name
 + User: mail
