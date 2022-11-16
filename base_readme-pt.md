@@ -12,26 +12,25 @@
 + User (classe para representar um usuário)
 + Nome da classe (classe para representar um objeto)
   
-Principais campos:
+### Principais atributos:
 
-+ User: name
-+ User: mail
-+ User: birth
-+ User: active
-+ Class name: field
++ User: name (primeiro nome do usuário)
++ User: mail (e-mail do usuário)
++ User: birth (data de nascimento do usuário)
++ User: active (usuário está ativo?)
++ Nome da classe: campo (descrição do campo)
 
-## In addition to CRUD, I implement other features such as:
+### Métodos para implementação de alguns recursos, como:
 
-* Entire verification system to validate forms with personalized messages.
-* Message of success when create a User.
-* Profile User editable.
-* Function to get age from birthday.
+* Mensagem de sucesso ao criar um usuário.
+* Funções para gerenciar o perfil do usuário.
+* Função para obter idade a partir da data de aniversário.
 
-## This features are in developing:
+## Recursos em desenvolvimento:
 
-- Account verification and password change with email.
+- Verificação de conta e alteração de senha por e-mail.
 
-## Technologies Used:
+## Tecnologias usadas:
 
 <table>
   <tr>
@@ -46,9 +45,9 @@ Principais campos:
   </tr>
 </table>
 
-## How to run the application:
+## Como rodar a aplicação:
 
-create and activate a python virtual environment
+Crie e habilite um ambiente virtual
 ```console
   python -m venv venv
 ```
@@ -57,35 +56,36 @@ create and activate a python virtual environment
   .venv/bin/activate | linux e macOs
 ```
 
-Install all project dependencies
+Instale as dependências do projeto
 ```console
   pip install -r requirements.txt
 ```
 
-Set default values for environment variables (.env)
+Definindo os valores padrões para as variáveis de ambiente (.env)
 ```
-  Copy the file .env.example and rename it to .env
-```
-
-Configuring the local database
-```
-  Database is being hosted locally, to configure the accesses, use the .env file and enter your local bank login information.
+  Copie o arquivo .env.example e renomeie-o para .env
 ```
 
-Config example
+Configurando o banco de dados local
 ```
-  SECRET_KEY=Your Django key
+  O banco de dados está sendo hospedado localmente, para configurar os acessos, use o arquivo .env e insira as 
+  informações de acesso do seu banco local.
+```
+
+Exemplo de Configuração
+```
+  SECRET_KEY=Sua chave do Django
   DEBUG=True
   DB_ENGINE=django.db.backends.postgresql
-  DB_NAME=database name
-  DB_USER=database user
-  DB_PASSWORD=database password
-  DB_HOST=database host (default='localhost')
-  DB_PORT=database port (default=5432)
+  DB_NAME=Nome do banco de dados
+  DB_USER=Usuário do banco de ados
+  DB_PASSWORD=Senha do banco de dados
+  DB_HOST=Hospedagem do Banco (padrão='localhost')
+  DB_PORT=Porta de acesso do Banco de dados (padrão=5432)
 ```
-## Use
+## Uso
 
-Pass the models to the database:
+Passe os modelos para o banco de dados:
 ```console
 python manage.py makemigrations
 ```
@@ -93,12 +93,12 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
-Run the server:
+Rode o servidor:
 ```console
 python manage.py runserver 8000
 ```
 
-The server will be available at: 
+O servidor estará disponível em: 
 ```console
 http://127.0.0.1:8000/
 ```
