@@ -22,9 +22,8 @@ Main attributes:
 
 ## Methods for implementing some features, such as:
 
-* Entire verification system to validate forms with personalized messages.
 * Message of success when create a User.
-* Profile User editable.
+* Functions to manage user profile.
 * Function to get age from birthday.
 
 ## This features are in developing:
