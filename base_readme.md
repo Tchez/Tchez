@@ -12,7 +12,7 @@
 + User (a class to represent a user)
 + Class name (a class to represent a object)
   
-Main attributes:
+### Main attributes:
 
 + User: name (first name of the user)
 + User: mail (mail of the user)
@@ -20,7 +20,7 @@ Main attributes:
 + User: active (user is active?)
 + Class name: field (field description)
 
-## Methods for implementing some features, such as:
+### Methods for implementing some features, such as:
 
 * Message of success when create a User.
 * Functions to manage user profile.
