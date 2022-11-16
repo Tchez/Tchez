@@ -5,7 +5,7 @@
 
 > Status: Developing
 
-### It is a web application planned by me, where I perform the CRUD of Project Name.
+### This project is a WEB application created with the intention of...
 
 ## Project's class models:
 
@@ -28,7 +28,7 @@ Main attributes:
 
 ## This features are in developing:
 
-- Account verification and password change with email.
+- Account verification and password change via email.
 
 ## Technologies Used:
 
