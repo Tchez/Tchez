@@ -5,7 +5,7 @@
 
 > Status: Em desenvolvimento
 
-### Esse projeto é uma aplicação WEB criada com o intúito de...
+### Esse projeto é uma aplicação WEB criada com o intuito de...
 
 ## Modelos de classe do projeto:
 
