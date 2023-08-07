@@ -9,8 +9,14 @@
   
 <div style="display: inline_block"><br>
   <a href="https://github.com/Tchez/Alura_Python/tree/main/Django">
-    <img align="center" alt="Django" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />   
-  </a>            
+    <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />   
+  </a>          
+  <a href="https://github.com/Tchez/algamoney-api">
+    <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />          
+  </a>
+  <a href="https://github.com/Tchez/Vuejs">
+    <img align="center" alt="Vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  </a>
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7053102114578808832/">
     <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   </a>           
