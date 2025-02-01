@@ -60,14 +60,7 @@
   </a> 
   <a href = "mailto:marcomartins06@rede.ulbra.br">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="http://wa.me/+5563984999013" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/_m_antonio/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
+  </a> 
   
-    
   ![Snake animation](https://github.com/Tchez/Tchez/blob/output/github-contribution-grid-snake.svg)
 </div>
