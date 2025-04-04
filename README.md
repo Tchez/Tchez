@@ -37,10 +37,6 @@ JavaScript (NestJS, React)
   Founder of a local community in Palmas focused on English-speaking practice and networking.  
   [LinkedIn post](https://www.linkedin.com/posts/tchez_comunidade-aprenderinglaeas-networking-activity-7285982108789968896-L8kX)
 
-- **Process Tree Simulation in Python**  
-  Visualization tool simulating process trees using Python and Matplotlib.  
-  [LinkedIn post](https://www.linkedin.com/posts/tchez_simula%C3%A7%C3%A3o-de-%C3%A1rvore-de-processos-activity-7075297867598340096-FDhp)
-
 - **Bronze Medal – OBMEP 2015**  
   Awarded a Bronze Medal in the 11th Brazilian Public School Mathematics Olympiad.  
   [View certificate](https://premiacao.obmep.org.br/2015/verRelatorioPremiadosBronze-TO.do.htm)
